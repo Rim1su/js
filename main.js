@@ -1,1 +1,6 @@
-console.log("Приветаааааа")
+let x = 500;
+let y = 600;    
+
+
+
+console.log(y - x)
